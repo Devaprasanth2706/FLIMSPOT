@@ -1,3 +1,3 @@
-# flutter_application_1
+# FLIMSPOT
 
-A new Flutter project.
+An application to explore the details of the movies
