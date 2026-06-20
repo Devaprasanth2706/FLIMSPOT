@@ -1,8 +1,8 @@
-# FLIMSPOT 🎬
+# FLIMSPOT 
 
 FLIMSPOT is a modern movie discovery application built with Flutter that allows users to explore trending, popular, and top-rated movies in a clean and intuitive interface. Powered by TMDB, the app provides real-time movie information, ratings, release dates, and detailed movie insights to help users discover their next favorite film.
 
-## ✨ Features
+##  Features
 
 - Browse Trending Movies
 - Explore Popular Movies
@@ -15,7 +15,7 @@ FLIMSPOT is a modern movie discovery application built with Flutter that allows 
 - Smooth and Responsive User Interface
 - Real-Time Data from TMDB
 
-## 📱 Screens
+## Screens
 
 - Home Screen
 - Trending Movies Section
@@ -24,14 +24,14 @@ FLIMSPOT is a modern movie discovery application built with Flutter that allows 
 - Search Screen
 - Movie Details Screen
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Flutter
 - Dart
 - TMDB API
 - Material Design
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -65,7 +65,7 @@ Run the application:
 flutter run
 ```
 
-## 📦 Build APK
+##  Build APK
 
 Generate a release APK:
 
@@ -79,20 +79,20 @@ The generated APK can be found in:
 build/app/outputs/flutter-apk/app-release.apk
 ```
 
-## 🌐 Data Source
+##  Data Source
 
 Movie data and images are provided by TMDB.
 
 This product uses the TMDB API but is not endorsed or certified by TMDB.
 
-## 📸 Application Preview
+##  Application Preview
 
 FLIMSPOT provides a seamless movie exploration experience with dedicated sections for trending, popular, and top-rated movies, along with powerful search functionality and detailed movie information pages.
 
-## 📄 License
+##  License
 
 This project is intended for educational and portfolio purposes.
 
 ---
 
-⭐ If you found this project useful, consider giving it a star.
+ If you found this project useful, consider giving it a star.
